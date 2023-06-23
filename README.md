@@ -1,2 +1,2 @@
 # Coffee-Shop-app-project
-This an android app of ordering some coffee
+This is an android app of ordering some coffee
